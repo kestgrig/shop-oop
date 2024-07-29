@@ -1,1 +1,3 @@
-import { Layout } from ""
+import { Layout } from "../components/Layout.js";
+
+new Layout();
