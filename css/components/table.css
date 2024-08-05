@@ -2,9 +2,13 @@ table {
     border-spacing: 0 1rem;
 }
 
-thead {}
+thead {
 
-thead tr {}
+}
+
+thead tr {
+
+}
 
 thead td {
     padding: 1rem;
@@ -51,4 +55,9 @@ tbody td img {
     height: 3rem;
     background-color: red;
     border-radius: 50%;
+}
+
+tbody td button {
+    min-width: 2em;
+    padding: 0.3em 0.5em;
 }
